@@ -53,7 +53,7 @@ microsoftyug-main/
 This can be deployed as a static site. Suggested options:
 
 * **GitHub Pages**: push to a repository and enable Pages from the `main` branch or `gh-pages` branch.
-* **Netlify / Vercel**: drag-and-drop the folder or connect the repo for automatic deploys.
+* **Netlify / Vercel**: drag-and-drop the folder or connect the repo for automatic deploys. (preferl vercel)
 
 ---
 
