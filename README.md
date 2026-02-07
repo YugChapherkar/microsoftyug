@@ -18,7 +18,7 @@ The page is intended as a promotional/marketing landing layout (hero, services, 
 * **Files**: `index.html`, `style.css`, `Assets/*`
 * **Responsiveness**: No explicit CSS media queries were found. The page includes a mobile `viewport` meta tag but may not be fully responsive on small screens.
 * **Accessibility**: Images currently have empty `alt` attributes; recommend adding descriptive `alt` text and ARIA where needed.
-* **External resources**: Google Fonts and Font Awesome are loaded via CDNs in `index.html`.
+* **External resources**: Google Fonts and Font Awesome are loaded via CDNs in `index.html`. 
 
 ---
 
